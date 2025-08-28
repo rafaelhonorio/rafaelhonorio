@@ -26,8 +26,8 @@ Full‑stack developer (Java • Spring Boot • AngularJS/Angular). Foco em mig
 
 
 ### 🗺️ Roadmap 2025
-- ✔️ Clean/Hexagonal Architecture
-- ✔️ Testes (JUnit 5, Testcontainers, Cypress)
+- 🚧 Clean/Hexagonal Architecture
+- 🚧 Testes (JUnit 5, Testcontainers, Cypress)
 - 🚧 Observability (Micrometer, OpenTelemetry)
 - 🚧 Docker & Compose
 
